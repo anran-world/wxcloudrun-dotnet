@@ -1,0 +1,6 @@
+/Users/aaron/workspace/net.cs/helloworld/bin/Release/net5.0/publish/appsettings.Development.json
+/Users/aaron/workspace/net.cs/helloworld/bin/Release/net5.0/publish/appsettings.json
+/Users/aaron/workspace/net.cs/helloworld/bin/Release/net5.0/publish/helloworld.dll
+/Users/aaron/workspace/net.cs/helloworld/bin/Release/net5.0/publish/helloworld.deps.json
+/Users/aaron/workspace/net.cs/helloworld/bin/Release/net5.0/publish/helloworld.runtimeconfig.json
+/Users/aaron/workspace/net.cs/helloworld/bin/Release/net5.0/publish/helloworld.pdb
