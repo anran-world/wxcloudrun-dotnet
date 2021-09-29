@@ -11,4 +11,4 @@ COPY helloworld/bin/Release/net5.0/publish /app/
 ENV ASPNETCORE_URLS http://*:5000
 
 # 执行启动命令
-ENTRYPOINT ["dotnet", "helloworld.dll"]
+CMD ["dotnet", "helloworld.dll"]
